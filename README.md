@@ -1,5 +1,5 @@
 # blockchain-dlt-frankenstein-in-a-centralized-semi-centralized-environment
-This paper puts forth the idea of a blockchain/distributed ledger technologies (DLT) as a "frankenstein" when applied in a centralized/semi-centralized environment. If blockchain/dlt does not disintermediate any entity, a frankstein is created instead. 
+This paper puts forth the idea of a blockchain/distributed ledger technologies (DLT) "frankenstein" when applied in a centralized/semi-centralized environment. If blockchain/dlt does not disintermediate any entity, a frankstein is created in the environment instead. 
 
 There are many attempts by financial intermediaries to experiment blockchain/distributed ledger technologies (DLT) in a centralized environment (e.g., financial market infrastructure). These experiments are doomed to fail for the following 3 reasons:
 
